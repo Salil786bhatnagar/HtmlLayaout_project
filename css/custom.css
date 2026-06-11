@@ -1,0 +1,63 @@
+
+/* header css */
+.divHead {
+    background: aquamarine;
+    height: 100px;
+    border: 1px solid red;
+}
+
+/* footer css*/
+.divFooter {
+    width: 100%;
+    background: cyan;
+    height: 100px;
+    border: 1px solid;
+    /* smargin: 0px 1px 1px 0px; */
+    margin-top: 37%;
+}
+
+.mainDiv {
+    /* background: burlywood;
+    height: 450px; */
+
+    margin: 0px;
+    background: chocolate;
+    width: 100%;
+    padding: 0px;
+}
+
+/* left said bar */
+
+.divleft {
+    width: 20%;
+    float: left;
+    background: cadetblue;
+    position: relative;
+    bottom: 0px;
+    height: 493px;
+}
+
+/* right said bar */
+
+
+.divRight {
+    width: 70%;
+    float: right;
+    background: antiquewhite;
+    height: 296px;
+    height: 493px;
+    padding: 0% 0% 0% 10%;
+}
+
+.left_class li {
+    padding: 1% 0%;
+    margin: 5%;
+    list-style: none;
+    text-decoration: none;
+}
+
+.left_class a {
+    color: beige;
+    text-decoration: none;
+    font-weight: bold;
+}
